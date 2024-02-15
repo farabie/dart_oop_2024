@@ -18,7 +18,7 @@ void main() {
 class Employee {
   String nama = 'Default';
   int age = 0;
-  List<String> keterampilanKhusus = ['Menjahitx'];
+  List<String> keterampilanKhusus = ['Menjahit'];
 
   Employee(this.nama, this.age, this.keterampilanKhusus);
 
